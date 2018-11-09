@@ -1,5 +1,7 @@
 {
   "name": "drive",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
